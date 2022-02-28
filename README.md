@@ -1,7 +1,8 @@
 # Repository Tugas QA JLabs
 
 ## List Tugas (tugasqajlabs2022)
-Tugas 1
+
+## Tugas 1
 
 Membuat input suatu array minimal 5 anggota dengan menggunakan treemap dan treeset.
 
@@ -12,7 +13,8 @@ com.javaprogram
 
 Tugas1.java
 ```
-Tugas 2
+
+## Tugas 2
 
 Membuat Kalkulator dengan 2 input.
 
@@ -43,7 +45,7 @@ Tugas2Kalkulator.java
 Tugas2Runner.java
 ```
 
-Tugas 3
+## Tugas 3
 
 Menambahkan assertion dan skenario untuk Apptest dan juga AppTestPageFactory. Skenario yang ditambahkan adalah, ketika sudah login, maka akan logout dan assert bahwa logout berhasil.
 
@@ -74,7 +76,7 @@ AppTest.java
 AppTestPageFactory.java
 ```
 
-Tugas 4
+## Tugas 4
 
 Open Yopmail, and input automationtest and then extract the first email using switch iframe.
 
@@ -95,7 +97,7 @@ qaautomation.tugasqajlabs2022
 SwitchPageTest.java
 ```
 
-Tugas 5
+## Tugas 5
 
 Given I open https://kolakproject.herokuapp.com/register
 
