@@ -1,0 +1,1 @@
+{"uuid":"669b8fae-747d-4c2c-b4cb-55c996973c48","name":"qaautomation.tugasqajlabs2022.BaseWebTestSwitch.quitChromeDriver","description":"","start":1645604090761,"stop":1645604090863,"children":["a6715d7a-d2c0-4081-b43b-4601be4931e5"],"afters":[{"name":"quitChromeDriver","status":"passed","stage":"finished","description":"","start":1645604090762,"stop":1645604090863}]}
