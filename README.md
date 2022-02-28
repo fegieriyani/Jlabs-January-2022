@@ -1,5 +1,3 @@
-# Jlabs-January-2022
-
 # Repository Tugas QA JLabs
 
 ## List Tugas (tugasqajlabs2022)
